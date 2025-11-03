@@ -4,7 +4,7 @@ import time
 
 st.set_page_config(page_title="Lets Talk", page_icon="🌌", layout="wide")
 
-st.title("Lets Learn: Powered by FastAPI, HuggingFace, and Streamlit")
+st.title("Lets Learn: Powered by FastAPI, LangChain, and Streamlit")
 
 API_URL = "http://127.0.0.1:8000/chat/invoke"
 
