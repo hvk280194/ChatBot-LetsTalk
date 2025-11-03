@@ -1,6 +1,6 @@
-# 💬 Let's Talk
+# 💬 Let's Learn
 
-**Let’s Talk** is a modular **AI chat application** built using **FastAPI** for backend APIs and **Streamlit** for the frontend interface.
+**Let’s Learn** is a modular **AI chat application** built using **FastAPI** for backend APIs and **Streamlit** for the frontend interface.
 It integrates **Hugging Face models** (via the Inference API) or **Ollama** for local inference and supports **asynchronous streaming** for smooth, real-time chat responses.
 
 ---
