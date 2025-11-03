@@ -5,3 +5,5 @@ langchain==0.2.14
 aiohttp==3.10.5
 python-dotenv==1.0.1
 pytest==8.3.3
+huggingface-hub==0.36.0
+streamlit==1.50.0
